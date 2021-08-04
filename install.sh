@@ -1,4 +1,5 @@
 # sf0x 2020
+# Automatic download and install TeamViewer in Ubuntu Live
 #!/bin/sh
 sudo su -c 'echo "deb http://de.archive.ubuntu.com/ubuntu groovy main restricted universe multiverse" >> /etc/apt/sources.list'
 sudo su -c 'echo "deb http://de.archive.ubuntu.com/ubuntu groovy-updates main restricted universe multiverse" >> /etc/apt/sources.list'
